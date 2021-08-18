@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.demo-layout-transparent {
+  background: url('https://image.freepik.com/free-photo/growing-plant-soil-against-white-background_23-2147817211.jpg') center / cover;
+}
+.demo-layout-transparent .mdl-layout__header
+{
+
+  color: black;
+  font-style: oblique;
+  font-family: Courier, Monaco, monospace;
+}
